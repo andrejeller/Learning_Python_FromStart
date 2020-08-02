@@ -40,6 +40,8 @@ Desafio 012
 Desafio 013
 - Faça um algorítimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 
+----------------------------------------------------------------------------------------------------------
+
 Desafio 014
 - Escreve um programa que converta uma temperatura digitada em °C para °F.
 
@@ -49,12 +51,77 @@ pelos quais ele foi alugado. Calcula o preço a pagar, sabendo que o carro custa
 
 
 ----------------------------------------------------------------------------------------------------------
+Fase 08
 
-Desafio 015
-Desafio 015
-Desafio 015
-Desafio 015
-Desafio 015
-Desafio 015
-Desafio 015
-Desafio 015
+Desafio 016
+- Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela sua porção inteira.
+Ex. Digite um número: 6.127
+Print: O número 6.127 tem a parte inteira 6.
+
+Desafio 017
+- Faça um programa que leia o cateto oposto e do cateto adjacente de um triangulo retângulo, calcule e mostre o
+comprimento da hipotenusa.
+a² = b² + c²
+
+Desafio 018 ** esse é bom
+- Faça um programa que leia um ângulo quaquer e mosre na tela o valor do seno, cosseno e tangente desse ângulo.
+#existe biblioteca
+
+Desafio 019
+- Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um prigrama que ajude ele, lendo
+o nome deles e escrevendo o nome do escolhido.
+
+
+Desafio 020
+- O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalho dos alunos. Faça um
+programa que leia os nomes dos quatro alunos e mostre a ordem sorteada.
+
+
+Desafio 021
+- Faça um programa em Python qye abra e reproduza o áudio de um arquivo MP3.
+
+
+----------------------------------------------------------------------------------------------------------
+Fase 09
+
+Desafio 022
+- Crie um programa que leia o nome completo de uma pessoa e mostre:
+O nome com todas as letras maiusculas;
+O nome com todas as letras minusculas;
+Quantas letras ao todo(sem considerar os espaços);
+Quantas letras tem o primeiro nome;
+
+Desafio 023  ** esse é muito bom -- mas meio viagem -- logica não faz sentido kk
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados.
+Ex. Digite um número: 1834
+Print: Unidade: 4, Dezena: 3, Centena: 8, Milhar: 1;
+
+Desafio 024
+- Crie um programa que leia um nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+Desafio 025
+- Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+Desafio 026 ** é bom também por causa do RFIND
+- Faça um programa que leia uma frase pelo teclado e mostre:
+Quantas vezes aparece a letra "A".
+Em que posição ela aparece a primeira vez.
+Em que posição ela aparece a última vez.
+
+Desafio 027
+- Faça um programa que leia o nome completo completo de uma pessoa, postrando em seguida o primeiro
+e o último nome separadamente.
+Ex. Aa Maria de Souza
+Print: Primeiro: Ana, Ultimo: Souza
+
+----------------------------------------------------------------------------------------------------------
+Fase 10
+
+Desafio 028
+
+
+Desafio 029
+
+
+Desafio 030
+

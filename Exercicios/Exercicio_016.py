@@ -1,15 +1,14 @@
 """
-Desafio 004
-- Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
-e todas as informações possiveis sobre ele.
+Desafio 016
+- Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela sua porção inteira.
+Ex. Digite um número: 6.127
+Print: O número 6.127 tem a parte inteira 6.s
 """
+import math
 
-a = input('Digite algo: ')
-print('O tipo primitivo deste valor é', type(a))
-print('Só tem espaços? ', a.isspace())
-print('É um número? ', a.isnumeric())
-print('É alfabético? ', a.isalpha())
-print('É alfanumérico? ', a.isalnum())
-print('Está em maiúsculas? ', a.isupper())
-print('Está em minúsculas? ', a.islower())
-print('Está capitalizada? ', a.istitle())
+n = float(input('Digite um numero com virgula: '))
+parte_inteira = math.trunc(n)
+
+print('O número {} tem a parte inteira {}.'.format(n, parte_inteira))
+print('O número {} tem a parte inteira {:.0f}.'.format(n, n))
+print('O número {} tem a parte inteira {}.'.format(n, int(n)))
