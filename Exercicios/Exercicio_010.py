@@ -3,6 +3,6 @@
 Considere: US$1,00 = R$3,27
 """
 
-a = float(input('Digite um valor em R$: '))
-real = a / 3.27
-print('Com R${:.2} voce pode comprar US${:.2}'.format(real, a))
+real = float(input('Digite um valor em R$: '))
+us = real / 3.27
+print('Com R${:.2f} voce pode comprar US${:.2f}'.format(real, us))

@@ -7,4 +7,4 @@ n1 = float(input('Digite a primeira nota: '))
 n2 = float(input('Digite a segunda nota: '))
 
 media = (n1 + n2) / 2
-print('Tendo as notas {} e {}, sua média é de {}.'.format(n1, n2, media))
+print('Tendo as notas {} e {}, sua média é de {:.2}.'.format(n1, n2, media))

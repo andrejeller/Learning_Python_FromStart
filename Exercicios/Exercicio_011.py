@@ -9,4 +9,4 @@ altura = float(input('Altura: '))
 
 area = largura * altura
 tintas = area / 2
-print('Sendo uma parede de {}x{} você vai precisar de {} latas de tinta.'.format(largura, altura, tintas))
+print('Sendo uma parede de {}x{}, a área dela é de {}m², então você vai precisar de {}l de tinta.'.format(largura, altura, area, tintas))

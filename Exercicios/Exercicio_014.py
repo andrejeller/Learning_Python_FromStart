@@ -1,15 +1,8 @@
 """
-Desafio 004
-- Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
-e todas as informações possiveis sobre ele.
+Desafio 014
+- Escreve um programa que converta uma temperatura digitada em °C para °F.
 """
 
-a = input('Digite algo: ')
-print('O tipo primitivo deste valor é', type(a))
-print('Só tem espaços? ', a.isspace())
-print('É um número? ', a.isnumeric())
-print('É alfabético? ', a.isalpha())
-print('É alfanumérico? ', a.isalnum())
-print('Está em maiúsculas? ', a.isupper())
-print('Está em minúsculas? ', a.islower())
-print('Está capitalizada? ', a.istitle())
+c = float(input('Qual a temperatuda em °C?: '))
+f = ((9 * c) / 5) + 32.0
+print('A temperatuda de {}°C corresponde a {}°F'.format(c, f))
