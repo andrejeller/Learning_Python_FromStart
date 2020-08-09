@@ -1,5 +1,5 @@
 """
-O que foi visto na aula 13.
+O que foi visto na aula 15.
 - Estrutura de repetição BREAK
 
 

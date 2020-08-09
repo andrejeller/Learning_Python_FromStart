@@ -348,3 +348,50 @@ Desafio 071
 - Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor
 a ser sacado(numero inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 Obs. considere que o caixa possui cédulsa de R550, R$20, R$10 e R$1.
+
+
+----------------------------------------------------------------------------------------------------------
+------------------------------------- MUNDO 03 -----------------------------------------------------------
+Fase 16
+
+
+Desafio 072
+- Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
+Seu programa deverá ler um número pelo teclado(entre 0 e 20) e mostrá-lo por extenso.
+
+Desafio 073
+- Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem
+de colocação. Depois mostre:
+'A) Apenas os 5 primeiros colocados
+'B) Os útimos 4 colocados da tabela.
+'C) Uma lista com os times em ordem alfabética.
+'D) Em que posição na tabela está o time da Chapecoense.
+
+Desafio 074
+- Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
+Depois disso, mostre a listage, de números gerados e também indique o menor e o maior valor que estão na tupla.
+
+Desafio 075
+- Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+'A) Quantas vezes apareceu o valor 9.
+'B) Em que posição foi digitado o primeiro valor 3.
+'C) Quais foram os números pares.
+
+Desafio 076
+- Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequencia.
+No final mostre ums listagem de preços, organizando os dados em forma tabular.
+
+Desafio 077
+- Crie um programa que tenha uma tupla com várias palavras(não usar acentos). Depois disso, você deve mostrar,
+para cada palavra, quais são as vogais.
+
+
+-------------------------------------------------------------------------------------------------------------
+Fase 17
+
+Desafio 078
+Desafio 079
+Desafio 080
+Desafio 081
+Desafio 082
+Desafio 083
