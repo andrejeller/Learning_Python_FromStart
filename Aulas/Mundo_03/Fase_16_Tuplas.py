@@ -1,5 +1,5 @@
 """
-O que foi visto na aula 13.
+O que foi visto na aula 16.
 - Túplas
 
 -- "AS TUPLSA SÃO IMUTAVEIS"
