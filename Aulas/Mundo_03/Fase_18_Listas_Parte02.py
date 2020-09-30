@@ -1,5 +1,5 @@
 """
-O que foi visto na aula 17.
+O que foi visto na aula 18.
 - Listas parte 02
 
 """
