@@ -462,20 +462,36 @@ Desafio 090
 - Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionario. No final,
 mostre o conteúdo da estrutura na tela.
 
-Desafio 091
--
+Desafio 091 * Ordenando Dicionario
+- Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um
+dicionario. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 
 Desafio 092
--
+- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionario
+se por acaso a CTPS for diferente de ZERO, o dicionario receberá também o ano de contratação e o salario. Calcule
+e acresente, além da idade, com quantos anos a pessoa vai se aposentar. (dps de 35 anos trabalhados)
 
 Desafio 093
--
+- Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e
+quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será
+guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
+
 
 Desafio 094
--
+- Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e
+todos os dicionarios em uma lista. No final, mostre:
+'A. Quantas pessoas foram cadastradas.
+'B. A média de idade do grupo.
+'C. Uma lista com todas as mulheres.
+'D. Uma lista com todas as pessoas com idade acima da média.
+
 
 Desafio 095
--
+- Aprimore o DESAFIOA 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes
+de aproveitamento de cada jogador.
+
+-------------------------------------------------------------------------------------------------------------
+Fase 20
 
 Desafio 096
 Desafio 097
