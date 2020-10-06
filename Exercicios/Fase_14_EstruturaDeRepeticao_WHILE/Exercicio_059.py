@@ -1,6 +1,6 @@
 """
 Desafio 059
-- Crie um programa que leia dois valores e mostre um menu na tela:
+- Crie um programa que leia dois valores e mostre um interface na tela:
 '[1] Somar
 '[2] Multiplicar
 '[3] Maior

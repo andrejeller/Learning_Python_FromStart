@@ -1,0 +1,8 @@
+andre;22
+gustavo;40
+jose;95
+paulo;35
+andre legal;10
+maria;32
+roberto;47
+agora;3

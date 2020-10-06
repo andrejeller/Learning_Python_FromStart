@@ -10,7 +10,7 @@ valores que sejam monetarios.
 from Exercicios.Fase_22_Modulos.Ex112.utilidadescev import moeda
 from Exercicios.Fase_22_Modulos.Ex112.utilidadescev import dado
 
-# import Exercicios.Fase_22_Modulos.Ex111.utilidadescev
+# import Exercicios.Fase_22_Modulos.Ex111.utils
 # Dentro do __init__.py do utilizadesCeV já temos os outros dois imports
 
 
