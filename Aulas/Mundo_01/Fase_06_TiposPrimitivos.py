@@ -1,5 +1,7 @@
 """
 O que foi visto na aula 06
+- Tipos Primitivos e Saída de Dados
+
 """
 
 n1 = input('Digite um valor: ')
