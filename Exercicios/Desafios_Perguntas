@@ -566,6 +566,44 @@ Obs. use cores.
 Fase 22
 
 Desafio 107
+- Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro(), metade().
+Faça também um programa que importe esse módulo e use algumas dessas funções.
+
 Desafio 108
+- Adapte o código do desafio 107, criando uma função adicional chamada moeda() que consiga mostrar os valores
+como um valor monetáreo formatado.
+
 Desafio 109
+- Modifique as funções que foram criadas no desaifio 107 para que elas aceitem um parâmetro a mais, informando se
+o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
+
 Desafio 110
+- Adicione ao módulo moeda.py criado nos desafios anteriores, uma função chamadaresumo(), que mostre na tela algmas
+informações geradas pelas fuções que já temos no módulo criado até aqui.
+
+Desafio 111
+- Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado.
+Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
+
+Desafio 112
+- Dentro do pacote utilizadesCeV que criamos no desafio 111, temos um módulo cjamado dado. Crie uma função chamada
+leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas
+valores que sejam monetarios.
+
+-------------------------------------------------------------------------------------------------------------
+Fase 23
+
+Desafio 113
+- Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um
+número inválido. Aproveite e crie também uma função leiaFloar() com a mesma funcionalidade.
+
+
+Desafio 114
+- Crie um código em Python que teste se o site Pudim está acessível pelo computador usado.
+pudim.com.br
+
+Desafio 115
+- Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um
+arquivo de texto simples
+
+O sistema só vai ter 2 opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.

@@ -1,5 +1,5 @@
 '''
-SCRIPT PARA SEPARAR AS IMAGENS DA BASE DO CANADENSE
+SCRIPT PARA SEPARAR AS IMAGENS DA BASE 'COVID-19 image data collection'
 LINK: https://github.com/ieee8023/covid-chestxray-dataset
 
 O que ele faz? Ele pega os metadados presente no .CSV disponibilizado na base e percorre linha por linha.
